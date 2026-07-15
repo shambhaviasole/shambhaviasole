@@ -232,7 +232,7 @@ $ cat about_me.txt
 
 # 📊 cat developer_dashboard.log
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08121F,100:22D3EE&height=2"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:08121F,100:22D3EE&height=2"/> -->
 
 </div>
 
