@@ -4,8 +4,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=16A085&center=true&vCenter=true&width=950&lines=Python+Developer;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Django+%7C+FastAPI+%7C+React;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 
-<br><br>
+<br>
+<div align="center">
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-14253E?style=for-the-badge&logo=leetcode&logoColor=16A085)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14253E?style=for-the-badge&logo=geeksforgeeks&logoColor=16A085)](https://www.geeksforgeeks.org/user/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-14253E?style=for-the-badge&logo=hackerrank&logoColor=16A085)](https://www.hackerrank.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-14253E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shambhaviasole)
+
+</div>
 <a href="mailto:shambhaviasole9@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-14253E?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
@@ -14,14 +21,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-14253E?style=for-the-badge&logo=linkedin&logoColor=16A085"/>
 </a>
 
-<a href="https://github.com/shambhaviasole">
-<img src="https://img.shields.io/badge/GitHub-14253E?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
 <img src="https://komarev.com/ghpvc/?username=shambhaviasole&label=PROFILE+VIEWS&color=16A085&style=for-the-badge"/>
 
 </div>
-
 
 
 <div align="center">
@@ -324,23 +326,6 @@ class Developer:
 > 🚀 **Learn relentlessly. Build consistently. Improve continuously.**
 >
 > Every project is a lesson, every bug is an opportunity, and every challenge is a step toward mastery.
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08121F,100:22D3EE&height=2"/>
-
-</div>
-
-# 🧩 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-14253E?style=for-the-badge&logo=leetcode&logoColor=16A085)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14253E?style=for-the-badge&logo=geeksforgeeks&logoColor=16A085)](https://www.geeksforgeeks.org/user/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-14253E?style=for-the-badge&logo=hackerrank&logoColor=16A085)](https://www.hackerrank.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-14253E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shambhaviasole)
-
-</div>
 
 
 <div align="center">
