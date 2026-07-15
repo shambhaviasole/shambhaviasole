@@ -1,28 +1,3 @@
-<!-- <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:08121F,50:0F4C81,100:14B8A6&text=SHAMBHAVI%20ASOLE&fontColor=00F5D4&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20•%20AI%20Engineer%20•%20Backend%20Developer&descAlignY=62&descSize=22"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=Python+Developer;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Django+%7C+FastAPI+%7C+React;Building+Scalable+Applications;Always+Learning+New+Technologies"/> <br><br>
-
-
-<a href="mailto:shambhaviasole9@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-08121F?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://linkedin.com/in/shambhavi-asole">
-<img src="https://img.shields.io/badge/LinkedIn-08121F?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="https://github.com/shambhaviasole">
-<img src="https://img.shields.io/badge/GitHub-08121F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=shambhaviasole&label=PROFILE+VIEWS&color=14B8A6&style=for-the-badge"/>
-
-</div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08121F,50:0F4C81,100:14B8A6&height=120&section=footer"/ -->
-
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:140C30,25:14253E,50:153D4C,75:156F69,100:16A085&text=SHAMBHAVI%20ASOLE&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20•%20AI%20Engineer%20•%20Backend%20Developer&descAlignY=62&descSize=22&descColor=FFFFFF"/>
@@ -47,7 +22,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:140C30,25:14253E,50:153D4C,75:156F69,100:16A085&height=120&section=footer"/>
+
 
 <div align="center">
 
@@ -55,7 +30,7 @@
 
 </div>
 
-# 💻 $ whoami
+# 💻 whoami
 
 ```yaml
 Name: Shambhavi Asole
@@ -99,17 +74,12 @@ $ cat about_me.txt
 </div>
 <div align="center">
 
-# 💻 $ ls ./tech-stack
+# 💻 ls ./tech-stack
 
 *"Building scalable applications one line of code at a time."*
 
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08121F,100:22D3EE&height=2"/>
-
-</div>
 
 # 🐍 Backend Development
 
@@ -129,11 +99,6 @@ $ cat about_me.txt
 
 </p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08121F,100:22D3EE&height=2"/>
-
-</div>
 
 # 🌐 Frontend Development
 
@@ -151,11 +116,6 @@ $ cat about_me.txt
 
 </p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08121F,100:22D3EE&height=2"/>
-
-</div>
 
 # 🗄 Database
 
@@ -167,11 +127,6 @@ $ cat about_me.txt
 
 </p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08121F,100:22D3EE&height=2"/>
-
-</div>
 
 # 🤖 AI • Machine Learning • Data Science
 
@@ -193,11 +148,6 @@ $ cat about_me.txt
 
 </p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08121F,100:22D3EE&height=2"/>
-
-</div>
 
 # 🛠 Developer Tools
 
@@ -280,7 +230,7 @@ $ cat about_me.txt
 
 <div align="center">
 
-# 📊 $ cat developer_dashboard.log
+# 📊 cat developer_dashboard.log
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:08121F,100:22D3EE&height=2"/>
 
@@ -385,13 +335,13 @@ class Developer:
 
 <div align="center">
 
-| Platform | Profile |
-|----------|---------|
-| 💻 LeetCode | [Visit](https://leetcode.com/u/Shambhavi_Asole/) |
-| ⚡ HackerRank | [Visit](https://www.hackerrank.com/shambhaviasole9) |
-| 🔥 GitHub | [Visit](https://github.com/shambhaviasole) |
+[![LeetCode](https://img.shields.io/badge/LeetCode-14253E?style=for-the-badge&logo=leetcode&logoColor=16A085)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14253E?style=for-the-badge&logo=geeksforgeeks&logoColor=16A085)](https://www.geeksforgeeks.org/user/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-14253E?style=for-the-badge&logo=hackerrank&logoColor=16A085)](https://www.hackerrank.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-14253E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shambhaviasole)
 
 </div>
+
 
 <div align="center">
 
@@ -400,14 +350,12 @@ class Developer:
 </div>
 <div align="center">
 
-# 📊 $ git stats
+# 📊 git stats
 
 
 *"Code • Commit • Learn • Repeat"* 🚀
 
 </div>
-
-# 📈 GitHub Analytics
 
 <div align="center">
 
@@ -423,25 +371,21 @@ class Developer:
 
 </div>
 
-## 📬 Contact
+# 📫 Contact Me
 
 <div align="center">
 
 <a href="mailto:shambhaviasole9@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email_Me-16A085?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/shambhavi-asole">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Let's_Connect-14253E?style=for-the-badge&logo=linkedin&logoColor=16A085"/>
 </a>
-
-<a href="https://github.com/shambhaviasole">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<br>
 
 ⭐ Thanks for visiting my profile!
 
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08121F,50:0F4C81,100:14B8A6&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:140C30,25:14253E,50:153D4C,75:156F69,100:16A085&height=120&section=footer"/>
